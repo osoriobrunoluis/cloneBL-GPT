@@ -15,5 +15,6 @@
   <p>  - Rodando o projeto </p>
   <p>  - Acessando <a href="https://platform.openai.com/apps" >openAI</a></p>
   <p>  - Entre na sua conta e crie sua key na parte superior a direita "View Api Keys"
-  <p>  - Com sua chave key gerada, crie na raiz do projeto o arquivo .env e copie sua chave / NEXT_PUBLIC_OPENAI_API_KEY=(COLE AQUI SUA CHAVE)
+  <p>  - Com sua chave key gerada, crie na raiz do projeto o arquivo .env 
+  <p>  - Copie sua chave / NEXT_PUBLIC_OPENAI_API_KEY=(COLE AQUI SUA CHAVE) </p>
   <p>  - Executar no terminal / npm install / npm run dev </p>
