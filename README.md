@@ -7,7 +7,7 @@
  <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img align="center" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" /> <img  align="center" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
            
 
-<p>Para acessar o link do projeto no Vercel  <a href="" >Clique aqui</a></p>
+<p>Para acessar o link do projeto no Vercel  <a href="https://clone-bl-jlf1nawz8-bruno-luiz.vercel.app/" >Clique aqui</a></p>
      
   <h2> Rodando o projeto </h2>
   
