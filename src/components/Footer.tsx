@@ -13,7 +13,7 @@ export const Footer = ({ disabled, onSendMessage }: Props) => {
         <div className="pt-3 text-center text-xs text-gray-300">
           Feito pela BL. Permitida a cópia e uso para qualquer fim.
           <br />
-          <a href="https://portfolio-jgnsh0ut6-bruno-luiz.vercel.app/" className="underline">
+          <a href="https://brunoluisportfolio.com.br/" className="underline">
             Para conhecer meu pórtifólio – Clique aqui – 
           </a>
         </div>
